@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+config2
+sqlalchemy
+snowflake-sqlalchemy
+catboost==1.2.3
+scikit-learn
+scipy
+boruta
+shap
